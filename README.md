@@ -1,12 +1,12 @@
 # WolfTeam Multi-hack (alias: "Project Rain")
 
-### Purpose
-
-During my teenage years, I enjoyed developing hacks for many of the games I played. There were a number of games that I hacked, including, GunBound, MapleStory, Gunz, Combat Arms and more. Eventually, I started to commercialize my hacks online and earned a significant amount of money as a result.
-
 ### Description
 
 WolfTeam is a popular first-person shooter game. This hack includes AimBot, super jump, super speed and a number of Direct3D modifications like chams, etc.
+
+### Purpose
+
+During my teenage years, I enjoyed developing hacks for many of the games I played. There were a number of games that I hacked, including, GunBound, MapleStory, Gunz, Combat Arms and more. Eventually, I started to commercialize my hacks online and earned a significant amount of money as a result.
 
 ### Project Layout
 
