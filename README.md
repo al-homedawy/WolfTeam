@@ -2,7 +2,7 @@
 
 ### Purpose
 
-During my teenage years, I enjoyed developing hacks for many of the games I played. There were a number of games that I hacked, including, GunBound, MapleStory, Gunz, Combat Arms and more. Eventually, I started to commercialize my hacks and earned a significant amount of money.
+During my teenage years, I enjoyed developing hacks for many of the games I played. There were a number of games that I hacked, including, GunBound, MapleStory, Gunz, Combat Arms and more. Eventually, I started to commercialize my hacks online and earned a significant amount of money as a result.
 
 ### Description
 
