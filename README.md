@@ -10,7 +10,7 @@ During my teenage years, I enjoyed developing hacks for many of the games I play
 
 ### Project Layout
 
-This project was developed inside a DLL. In order to use it, you must inject the library into WolfTeam's memory space. I have provided a number of DLL injectors on my GitHub for this purpose.
+In order to use hack, you must inject this library into WolfTeam's memory space. I have provided a number of DLL injectors on my GitHub for this purpose.
 
 ### Disclaimer
 
